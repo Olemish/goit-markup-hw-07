@@ -80,6 +80,6 @@
   transition: fill 250ms var(--timing-function);
   &:hover,
   &:focus {
-    fill: var(--link-accent);
+    fill: var(--accent-color);
   }
 }
